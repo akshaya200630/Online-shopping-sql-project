@@ -199,3 +199,6 @@ online-shopping-sql-project/
 The goal of this project is to demonstrate practical SQL skills by analyzing an online shopping database and solving real-world business questions using SQL.
 
 This project progresses from **basic SQL queries to advanced SQL concepts** and is created as part of my SQL learning and portfolio development.
+
+
+
